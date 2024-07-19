@@ -44,8 +44,8 @@ The Diabetes Prediction System is a web application that uses a Logistic Regress
 ## Installation
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/5PCD3/Face_Detection_Attendence_System.git
-    cd Face_Detection_Attendence_System
+    git clone https://github.com/5PCD3/Dibeties_Predictor-Machine-Learning-Project-2.git
+    cd Dibeties_Predictor-Machine-Learning-Project-2
     ```
 
 2. **Create and activate a virtual environment**:
